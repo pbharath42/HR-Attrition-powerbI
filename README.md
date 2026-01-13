@@ -16,4 +16,7 @@ Key Insights
 - Gender and education-based attrition
 
  Dashboard
- Interactive Power BI dashboard with slicers and KPIs
+ Interactive Power BI dashboard with slicers and KPIs.
+
+ Dashboard preview
+ scrrenshoots of the powerbi dashboard are included above.
